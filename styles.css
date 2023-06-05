@@ -1,0 +1,40 @@
+
+body{
+    font-family: Lato, sans-serif;
+    flex-direction: column;
+    display: flex;
+    
+}
+div{
+    margin-top: 550px;
+    
+    
+    
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    max-height: 30%;
+    
+}
+#btn-quote{
+    top: 65%;
+    right: 45%;
+    position: absolute;
+}
+#party{
+    top: 80%;
+    right: 55%;
+    position: absolute;
+    font-size: 80%;
+    
+}
+img{
+    width: 30%;
+    top: 50%;
+    right: 70%;
+    position: absolute;
+}
+
